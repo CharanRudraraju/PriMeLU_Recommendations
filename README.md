@@ -1,4 +1,18 @@
-# PriMeLU_Recommendations
+# PriMeLU: Privacy focussed Meta-Learned User Preference Estimator for Cold-Start Recommendation
+
+Privacy focussed PyTorch implementation of the paper: "MeLU: Meta-Learned User Preference Estimator for Cold-Start Recommendation", KDD, 2019.
+
+This repo contains two folders. 
+
+|
+
+|-- PriMeLU
+
+|
+
+|-- frontend
+
+
 
 PriMeLU folder corresponds to the primelu model that we developed. 
 
